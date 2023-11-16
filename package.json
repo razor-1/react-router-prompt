@@ -20,9 +20,9 @@
   "private": false,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sshyam-gupta/react-router-prompt.git"
+    "url": "git+https://github.com/razor-1/react-router-prompt.git"
   },
-  "homepage": "https://github.com/sshyam-gupta/react-router-prompt#readme",
+  "homepage": "https://github.com/razor-1/react-router-prompt#readme",
   "keywords": [
     "confirm",
     "navigation",
